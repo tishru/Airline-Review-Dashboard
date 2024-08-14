@@ -26,4 +26,9 @@ This Tableau dashboard provides an interactive analysis of various metrics relat
   
 This dashboard is designed to provide insights into various aspects of the British Airways airline services, helping stakeholders identify areas of strength and opportunities for improvement.
 
-View the interactive dashboard on Tableau Public - https://public.tableau.com/views/BritishAirwaysReview_17234955171720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Tableau Dashboard
+
+This repository contains the Tableau dashboard for [British Airways Review].
+
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/BritishAirwaysReview_17234955171720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
